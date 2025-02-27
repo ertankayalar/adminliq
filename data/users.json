@@ -13,7 +13,7 @@
   ],
   "stats": [
     { "label": "Total Users", "value": 888 },
-    { "label": "Active Sessions", "value": 245 },
-    { "label": "New Signups", "value": 30 }
+    { "label": "Active Sessions", "value": 333 },
+    { "label": "New Signups", "value": 777 }
   ]
 }
