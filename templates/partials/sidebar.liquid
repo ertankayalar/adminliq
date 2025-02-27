@@ -1,0 +1,10 @@
+
+<aside class="sidebar bg-light">
+    <ul class="nav flex-column">
+        {% for link in nav_links %}
+        <li class="nav-item">
+            <a class="nav-link" href="{{ link.url }}">{{ link.label }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</aside>

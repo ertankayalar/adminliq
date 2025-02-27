@@ -1,0 +1,19 @@
+{
+  "site_name": "Admin Dashboard",
+  "user": {
+    "name": "John Doe"
+  },
+  "title": "Dashboard Overview",
+  "description": "Welcome to your admin panel. Here are your latest stats:",
+  "year": 2024,
+  "nav_links": [
+    { "label": "Home", "url": "/" },
+    { "label": "Users", "url": "/users" },
+    { "label": "Settings", "url": "/settings" }
+  ],
+  "stats": [
+    { "label": "Total Users", "value": 1500 },
+    { "label": "Active Sessions", "value": 245 },
+    { "label": "New Signups", "value": 30 }
+  ]
+}
